@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "1697393",
+        "value": "",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "e130735860f8a1be2efedc3f45d0132f",
+        "value": "",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -35,22 +35,22 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
-        "value": "mongodb+srv://DejavuMusicBot:DejavuMusicBot@cluster0.i4dzb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+        "value": "",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "Usta Music Bot",
+        "value": "",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "1980683964",
+        "value": "",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "AgClaTXoM-M0DEGV98ob-cBEOq2UoRGz_KcjRMbdI59sOLjg2lA2htgsLsosbwJl3i7kwfhOjVWJh8AWSNGQ-dnM-XZlvok5tNycnB8QawtE3V0uqIeih1HRTDr9KKB1D48dLU-UksI__TfbKvrkdbA3i4xov2sEjJ9IFPuyVwfGihUkfzYVJtwps0JVcvpjQOQFZaI6uHE2ZZFvGRuY4dToGb8A6CjwY48-yusRyDVBbixaM1z7G9L_-obXgNSH5Hxlp3UUhMC2KZRo9h6Y9VQ8K2HO9PjdikM4s1ktT60OrCjapeesc4gbabzE9DiSSWSeZIgsrk64sgkEaOsnb7YOAAAAATl8_SAA",
+        "value": "",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -70,7 +70,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/offlineflood/DeqimMuciBot",
+        "value": "https://github.com/offlineflood/DejavuMusicBot",
         "required": true
       },
       "UPSTREAM_BRANCH": {
