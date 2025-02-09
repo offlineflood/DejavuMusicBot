@@ -6,4 +6,4 @@
 2. [𓅓𝘋𝘦𝘨𝘎𝘪𝘹𝘔𓅓](https://t.me/DegGixM)
 
 <b>HEROKU'LA DAĞIDIN</b>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/offlineflood/DeqimMuciBot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/offlineflood/DejavuMusicBot.git)
